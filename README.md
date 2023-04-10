@@ -1,4 +1,4 @@
-<div align="center"> <h3> Adam Curry </h3>  </div>
+<div align="center"> <h3> admcurry/JavaScript </h3>  </div>
 
 <div align="center"> <h2> Learning JavaScript Repository </h2>  </div> <br/>
 
