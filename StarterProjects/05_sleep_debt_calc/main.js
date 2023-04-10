@@ -46,3 +46,4 @@ function calculateSleepDebt() {
     if (actualSleepHours > idealHours) {return `Your sleep credit is ${dif} hours`}
   }
   
+console.log(calculateSleepDebt())
